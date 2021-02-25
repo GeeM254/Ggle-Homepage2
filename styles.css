@@ -1,0 +1,44 @@
+header{
+     display: block;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(71, 68, 68);
+}
+.navbar{
+    position: relative;
+}
+.leftnav{
+    float: left;
+    
+}
+.rightnav{
+    float: right;
+}
+li{
+    display: inline;
+    
+}
+.container{
+    text-align: center;
+    margin: 0%;
+}
+.logo{
+    margin-top: 200px;
+    text-align: center;
+}
+li a{
+    float: left;
+}
+
+.footer{
+    background-color:rgb(211, 199, 199);
+    border: 1px solid gray;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
